@@ -41,7 +41,6 @@ header a{
   align-items: center;
   justify-content: space-around;
 }
-<<<<<<< HEAD
 .dima{
   background-color: orangered;
   width: 100%;
@@ -49,7 +48,7 @@ header a{
   display: flex;
   align-items: center;
   justify-content: space-around;
-=======
+}
 main{
   margin: 0;
 }
@@ -67,5 +66,4 @@ footer h3{
 footer{
   margin: 0;
   background-color: darkslateblue;
->>>>>>> ffaf7c7c01ec033e40fa1daa676651ad9379d581
 }
